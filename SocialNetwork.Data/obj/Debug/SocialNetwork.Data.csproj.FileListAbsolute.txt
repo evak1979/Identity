@@ -1,0 +1,16 @@
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.dll
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.pdb
+C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.xml
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.dll
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.pdb
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.xml
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Code\Tutorials\Identity\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
